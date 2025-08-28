@@ -99,12 +99,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub stats"/>
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages"/>
 </p>
+
 
 ---
 
