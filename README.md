@@ -85,22 +85,6 @@
 
 
 <!-- 📊 GitHub Stats Section -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages"/>
-</p>
-
-<!-- 🔥 Contribution Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmermehmood7&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
-</p>
-
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmermehmood7&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=86400" alt="GitHub Trophies"/>
-</p>
 
 
 ---
@@ -112,6 +96,26 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages"/>
+</p>
+
+<!-- 🔥 Contribution Streak -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ahmermehmood7&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<!-- 🏆 GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmermehmood7&theme=tokyonight&no-frame=true&row=1&column=6&cache_seconds=86400" alt="GitHub Trophies"/>
+  </a>
+</p>
 
 
 ### 🛠️ Skills & Tools  
