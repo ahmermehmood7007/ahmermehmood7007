@@ -1,5 +1,5 @@
  <!-- Title -->
-  <h1>Hi 👋, I'm <strong>AHMER MEHMOOD</strong></h1>
+  <h1>Hi 👋, I'm <strong>Ahmer Mehmood</strong></h1>
    <p><em>Aspiring Data Analyst from Islamabad, Pakistan</em></p>
 
 
