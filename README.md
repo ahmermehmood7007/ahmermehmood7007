@@ -21,16 +21,16 @@
 - ⏭️ Next move: **Power BI** (data visualization, dashboards, reporting)  
 - 🌱 I’m learning: **Python (pandas, numpy, matplotlib)** • **SQL (PostgreSQL, MySQL)** • **Excel (EDA, reporting, automation)** • **Power BI**  
 - 💬 Ask me about: **SQL queries, database design, Excel dashboards, and data visualization**  
-- 📫 How to reach me: **ahmermehmood777@gmail.com**  
+- 📫 How to reach me: **ahmermehmood7007@gmail.com**  
 - 🌐 Portfolio: [Data Science Portfolio](https://datascienceportfol.io/ahmermehmoodzz7)  
 
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmermehmood7/">
+  <a href="https://www.linkedin.com/in/ahmermehmood7007/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://github.com/ahmermehmood7">
+  <a href="https://github.com/ahmermehmood7007">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://www.instagram.com/">
@@ -39,7 +39,7 @@
   <a href="https://www.facebook.com/">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge">
   </a>
-  <a href="mailto:ahmermehmood777@gmail.com">
+  <a href="mailto:ahmermehmood7007@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
 </p>
@@ -90,17 +90,17 @@
 ---
 
 ### 🚀 Featured Projects
-- 🏥 [Hospital SQL Project](https://github.com/ahmermehmood7/hospital-sql-project) – SQL-based healthcare data management.  
-- 📚 [Online Book Store](https://github.com/ahmermehmood7/online-book-store) – Database system for book sales.  
-- 📊 [Excel Dashboard Sales Project](https://github.com/ahmermehmood7/Excel-Dashboard-Sales-Project) – Interactive Excel dashboard for sales analysis.  
+- 🏥 [Hospital SQL Project](https://github.com/ahmermehmood7007/hospital-sql-project) – SQL-based healthcare data management.  
+- 📚 [Online Book Store](https://github.com/ahmermehmood7007/online-book-store) – Database system for book sales.  
+- 📊 [Excel Dashboard Sales Project](https://github.com/ahmermehmood7007/Excel-Dashboard-Sales-Project) – Interactive Excel dashboard for sales analysis.  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7007&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180" alt="Top Languages"/>
 </p>
 
 
@@ -108,13 +108,13 @@
 
 <p align="center">
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ahmermehmood7&label=Profile%20Views&color=1DA1F2&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ahmermehmood7007&label=Profile%20Views&color=1DA1F2&style=for-the-badge" alt="Profile Views"/>
 
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/ahmermehmood7?label=Followers&logo=github&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/ahmermehmood7007?label=Followers&logo=github&style=for-the-badge" alt="Followers"/>
 
   <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/ahmermehmood7?label=Stars&logo=github&style=for-the-badge" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/ahmermehmood7007?label=Stars&logo=github&style=for-the-badge" alt="Total Stars"/>
 </p>
 
 
