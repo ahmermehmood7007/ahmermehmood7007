@@ -101,28 +101,32 @@ Developing a full Extract → Transform → Load workflow using Python and Postg
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub Stats"
+    height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7007&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages"
+    height="165"
   />
 </p>
 
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=ahmermehmood7007&theme=tokyonight&hide_border=true" 
-    height="170"
+    alt="GitHub Streak"
+    height="165"
   />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmermehmood7007&theme=tokyo-night&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmermehmood7007&theme=tokyo-night&hide_border=true" 
+    alt="Contribution Graph"
   />
 </p>
