@@ -1,3 +1,33 @@
+<h1 align="center">Ahmer Mehmood</h1>
+
+<p align="center">
+  <strong>Junior Data Engineer</strong><br>
+  SQL (PostgreSQL) • Python • ETL • Data Modeling<br>
+  Islamabad, Pakistan
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmermehmood7007/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:ahmermehmood7007@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Junior Data Engineer with strong expertise in SQL and Python, focused on building structured data workflows and scalable systems.
+
+- Advanced SQL (Joins, CTEs, Window Functions)
+- Relational Database Design
+- Query Optimization
+- Python-based ETL Pipelines
+- Moving toward Cloud Data Engineering
+
+---
 ## 🛠️ Technical Stack
 
 ### 🔹 Programming & Databases
