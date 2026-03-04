@@ -119,7 +119,9 @@ Developing a full Extract → Transform → Load workflow using Python and Postg
     height="165"
   />
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmermehmood7007&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 ---
 
 ## 📈 Contribution Graph
