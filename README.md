@@ -100,8 +100,21 @@ Developing a full Extract → Transform → Load workflow using Python and Postg
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7007&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7007&layout=compact&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7007&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=ahmermehmood7007&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
 </p>
 
 ---
@@ -109,11 +122,7 @@ Developing a full Extract → Transform → Load workflow using Python and Postg
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmermehmood7007&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmermehmood7007&label=Profile%20Views&color=0A66C2&style=flat"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmermehmood7007&theme=tokyo-night&hide_border=true&area=true" 
+  />
 </p>
