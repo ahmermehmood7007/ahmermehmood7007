@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Junior Data Engineer</strong><br>
-  SQL (PostgreSQL) • Python • ETL • Data Modeling<br>
+  SQL (PostgreSQL) • Python • ETL • Data Modeling • Query Optimization<br>
   Islamabad, Pakistan
 </p>
 
@@ -13,19 +13,22 @@
   <a href="mailto:ahmermehmood7007@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Junior Data Engineer with strong expertise in SQL and Python, focused on building structured data workflows and scalable data systems.
+Data Engineer focused on building structured data systems and scalable pipelines.
 
 - Advanced SQL (Joins, CTEs, Window Functions)
-- Relational Database Design
+- Relational Database Schema Design
 - Query Optimization & Indexing
 - Python-based ETL Pipelines
-- Progressing toward Cloud Data Engineering
+- Working toward Cloud Data Engineering (AWS & Modern Data Stack)
 
 ---
 
@@ -43,9 +46,12 @@ Junior Data Engineer with strong expertise in SQL and Python, focused on buildin
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  </a>
 </p>
 
-### 🔹 Data Engineering Concepts
+### 🔹 Data Engineering & Analytics
 
 <p>
   <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank">
@@ -56,6 +62,9 @@ Junior Data Engineer with strong expertise in SQL and Python, focused on buildin
   </a>
   <a href="https://use-the-index-luke.com/" target="_blank">
     <img src="https://img.shields.io/badge/Query_Optimization-2E7D32?style=for-the-badge"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
   </a>
 </p>
 
@@ -85,6 +94,23 @@ Built advanced PostgreSQL reporting tables using joins and aggregations.
 
 ### 🔄 Python ETL Pipeline
 Developing a full Extract → Transform → Load workflow using Python and PostgreSQL.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7007&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7007&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmermehmood7007&hide_border=true"/>
+</p>
 
 ---
 
