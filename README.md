@@ -1,45 +1,66 @@
-# Hi, I'm Ahmer Mehmood 👋
+<h1 align="center">Ahmer Mehmood</h1>
 
-### Junior Data Engineer | SQL • PostgreSQL • Python • ETL • Data Modeling  
-Islamabad, Pakistan  
+<p align="center">
+  <strong>Junior Data Engineer</strong><br>
+  SQL (PostgreSQL) • Python • ETL • Data Modeling<br>
+  Islamabad, Pakistan
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I am a Junior Data Engineer with a strong foundation in SQL (PostgreSQL) and Python.  
-I focus on designing structured data workflows, transforming raw datasets, and building reliable reporting solutions.
-
-Currently advancing toward Cloud Data Engineering and scalable data pipeline development.
-
----
-
-## 🛠️ Core Skills
-
-- SQL (PostgreSQL, MySQL)
-- Python (Pandas, NumPy)
-- ETL Concepts & Data Transformation
-- Relational Database Design
-- Query Optimization (CTEs, Joins, Window Functions)
-- Power BI (Data Modeling, DAX)
-- Git & GitHub
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmermehmood7007/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:ahmermehmood7007@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ahmermehmood7007">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 📂 Featured Data Projects
+## 👨‍💻 Professional Summary
 
-### 🏥 Hospital Database Project
-Designed relational schema and wrote optimized SQL queries for reporting and analytics.
+Junior Data Engineer with a strong foundation in SQL (PostgreSQL) and Python.  
+Experienced in designing structured data workflows, writing optimized queries, transforming raw datasets, and building reliable reporting solutions.
 
-### 📊 Sales Data Analysis (SQL)
-Built structured reporting queries using joins, aggregations, and CTEs.
-
-### 🔄 Python ETL Pipeline (Coming Next)
-Extract → Transform → Load pipeline using Python and PostgreSQL.
+Currently advancing toward Cloud Data Engineering with a focus on data pipelines, scalable systems, and modern data architecture.
 
 ---
 
-## 🔗 Connect With Me
+## 🛠️ Core Technical Skills
 
-- LinkedIn: https://linkedin.com/in/ahmermehmood7007
-- Email: ahmermehmood7007@outlook.com
+- **Programming:** Python (Pandas, NumPy)
+- **Databases:** PostgreSQL, MySQL
+- **Data Engineering:** ETL Concepts, Data Modeling, Query Optimization
+- **SQL Expertise:** Joins, CTEs, Aggregations, Window Functions
+- **Visualization:** Power BI (DAX, Data Modeling)
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+---
+
+## 📂 Featured Projects
+
+### 🏥 Hospital Database System
+Designed relational schema and implemented optimized SQL queries for structured healthcare reporting.
+
+### 📊 Sales Data Analysis (PostgreSQL)
+Developed advanced SQL queries using joins, aggregations, and CTEs to transform transactional data into analytical tables.
+
+### 🔄 Python ETL Pipeline *(In Progress)*
+Building an Extract → Transform → Load pipeline using Python and PostgreSQL to simulate real-world data engineering workflows.
+
+---
+
+## 🎯 Career Focus
+
+- Building scalable data solutions  
+- Strengthening database engineering fundamentals  
+- Advancing into Cloud Data Engineering  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmermehmood7007&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
