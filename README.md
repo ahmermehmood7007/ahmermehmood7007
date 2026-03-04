@@ -89,3 +89,31 @@ Junior Data Engineer with strong expertise in SQL and Python, focused on buildin
     <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
+## 📂 Featured Projects
+
+### 🏥 Hospital Database System
+Relational schema design with optimized SQL reporting queries.
+
+### 📊 Sales Data Analysis
+Advanced PostgreSQL reporting using joins and aggregations.
+
+### 🔄 Python ETL Pipeline
+Extract → Transform → Load workflow using Python and PostgreSQL.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmermehmood7007&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7007&layout=compact&hide_border=true" height="170"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmermehmood7007&label=Profile%20Views&color=0A66C2&style=flat"/>
+</p>
