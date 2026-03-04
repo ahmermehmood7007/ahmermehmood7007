@@ -19,11 +19,11 @@
 
 ## 👨‍💻 About Me
 
-Junior Data Engineer with strong expertise in SQL and Python, focused on building structured data workflows and scalable systems.
+Junior Data Engineer with strong expertise in SQL and Python, focused on building structured data workflows and scalable data systems.
 
 - Advanced SQL (Joins, CTEs, Window Functions)
 - Relational Database Design
-- Query Optimization
+- Query Optimization & Indexing
 - Python-based ETL Pipelines
 - Progressing toward Cloud Data Engineering
 
@@ -33,7 +33,7 @@ Junior Data Engineer with strong expertise in SQL and Python, focused on buildin
 
 ### 🔹 Programming & Databases
 
-<p align="left">
+<p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
   </a>
@@ -43,14 +43,11 @@ Junior Data Engineer with strong expertise in SQL and Python, focused on buildin
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  </a>
 </p>
 
-### 🔹 Data Engineering
+### 🔹 Data Engineering Concepts
 
-<p align="left">
+<p>
   <a href="https://en.wikipedia.org/wiki/Extract,_transform,_load" target="_blank">
     <img src="https://img.shields.io/badge/ETL-FF6F00?style=for-the-badge"/>
   </a>
@@ -60,14 +57,11 @@ Junior Data Engineer with strong expertise in SQL and Python, focused on buildin
   <a href="https://use-the-index-luke.com/" target="_blank">
     <img src="https://img.shields.io/badge/Query_Optimization-2E7D32?style=for-the-badge"/>
   </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
-  </a>
 </p>
 
 ### 🔹 Tools
 
-<p align="left">
+<p>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
   </a>
@@ -84,21 +78,13 @@ Junior Data Engineer with strong expertise in SQL and Python, focused on buildin
 ## 📂 Featured Projects
 
 ### 🏥 Hospital Database System
-Relational schema design with optimized SQL reporting queries.
+Designed relational schema and optimized SQL reporting queries.
 
 ### 📊 Sales Data Analysis
-Advanced PostgreSQL reporting using joins and aggregations.
+Built advanced PostgreSQL reporting tables using joins and aggregations.
 
 ### 🔄 Python ETL Pipeline
-Extract → Transform → Load workflow using Python and PostgreSQL.
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7007&show_icons=true&hide_border=true&theme=default" height="165"/>
-</p>
+Developing a full Extract → Transform → Load workflow using Python and PostgreSQL.
 
 ---
 
