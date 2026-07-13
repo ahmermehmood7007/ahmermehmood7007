@@ -19,21 +19,21 @@
 
 ## 👨‍💻 About Me
 
-Data Analyst with a strong foundation in SQL (PostgreSQL), Python, and Power BI, focused on transforming raw data into structured, actionable insights for decision-making.
+Data Analyst with a strong foundation in SQL (PostgreSQL) and a growing skill set in Python and Power BI, focused on turning raw data into structured, decision-ready insights.
 
-I have hands-on experience working with real-world datasets, performing data cleaning, analysis, and building dashboards to support business decision-making.
+I've built a full portfolio of SQL projects covering everything from data cleaning and joins to CTEs, window functions, and query optimization — working with realistic, business-style datasets rather than toy examples.
 
-Currently transitioning towards Data Engineering by developing skills in ETL pipelines, data workflows, and workflow orchestration tools.
+Currently building out my Python skills (Pandas, NumPy, Matplotlib, Seaborn) to round out my analytics toolkit, with the long-term goal of transitioning into Data Engineering.
 
 ---
 
 ## 🎯 Core Expertise
 
-- Advanced SQL (Joins, CTEs, Window Functions, Aggregations)  
-- Data Cleaning & Transformation (Python - Pandas)  
-- Data Analysis & Exploratory Data Analysis (EDA)  
-- Dashboard Development (Power BI)  
-- Relational Database Design & Query Optimization  
+- Advanced SQL (Joins, CTEs, Window Functions, Subqueries, Aggregations)
+- Relational Database Design & Query Optimization
+- Data Cleaning & Exploratory Data Analysis
+- Business-Focused Data Analysis & Reporting
+- Dashboard Development (Power BI)
 
 ---
 
@@ -88,33 +88,41 @@ Currently transitioning towards Data Engineering by developing skills in ETL pip
 
 ## 📂 Featured Projects
 
-### 📊 Sales Data Analysis (SQL)
-- Performed advanced SQL analysis to identify revenue trends and customer behavior  
-- Used joins, aggregations, and window functions for insights  
+### 🏠 [Real Estate Property Analytics](https://github.com/ahmermehmood0007/real-estate-property-analytics)
+A Zameen.com-style SQL analysis project (capstone) exploring property listings, pricing trends, and location-based insights.
+- Used CTEs, window functions, and aggregations to uncover pricing patterns across cities and property types
+- Structured queries to answer real business questions like top-performing areas and price-per-sqft trends
 
-### 🦠 COVID-19 Data Analysis (SQL)
-- Analyzed global pandemic data using SQL  
-- Extracted insights on cases, deaths, and vaccination trends  
+### 📡 [Telecom Customer Churn Analysis](https://github.com/ahmermehmood0007/Telecom_Customer_Churn_Analysis)
+SQL-driven analysis of telecom customer data to identify churn patterns and at-risk customer segments.
+- Applied joins, CASE WHEN logic, and subqueries to segment customers by usage and churn behavior
+- Extracted insights to support retention-focused decision-making
 
-### 📈 Sales Dashboard (Power BI)
-- Built interactive dashboards to visualize KPIs  
-- Improved reporting clarity using data storytelling techniques  
+### 🏦 [Bank Loan Risk Analysis](https://github.com/ahmermehmood0007/bank-loan-risk-analysis)
+Analysis of bank loan data to assess default risk and borrower behavior patterns.
+- Used window functions and aggregations to evaluate risk across loan categories and borrower profiles
+- Built queries to surface trends useful for credit risk assessment
+
+### 🎓 [Student Performance Analysis](https://github.com/ahmermehmood0007/Student_Performance_Analysis)
+SQL analysis of student academic data to identify performance trends and contributing factors.
+- Used joins, grouping, and aggregate functions to analyze scores across subjects and demographics
+- Delivered insights on performance gaps and improvement areas
 
 ---
 
-## 📌 What I’m Currently Working On
+## 📌 What I'm Currently Working On
 
-- 🔄 Building ETL pipelines using Python & PostgreSQL  
-- ⚙️ Learning workflow orchestration with Apache Airflow  
-- 📊 Improving SQL for advanced data processing  
+- 🐍 Building Python skills for data analysis (Pandas, NumPy, Matplotlib, Seaborn)
+- 📊 Applying Python + SQL together for deeper end-to-end analysis
+- 💼 Sharpening my portfolio, resume, and interview prep for Data Analyst roles
 
 ---
 
 ## 🎯 Career Direction
 
-- Short-Term: Data Analyst Role  
-- Mid-Term: Transition to Data Engineer  
-- Long-Term: Build scalable data systems & pipelines  
+- Short-Term: Data Analyst Role
+- Mid-Term: Strengthen Python + Data Visualization for end-to-end analytics
+- Long-Term: Transition into Data Engineering — build scalable data systems & pipelines
 
 ---
 
