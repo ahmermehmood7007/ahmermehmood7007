@@ -147,7 +147,7 @@ SQL analysis of student academic data to identify performance trends and contrib
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmermehmood0007&theme=tokyo-night&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ahmermehmood7007&theme=tokyo-night&hide_border=true" 
     alt="Contribution Graph"
   />
 </p>
