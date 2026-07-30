@@ -138,7 +138,7 @@ SQL analysis of student academic data to identify performance trends and contrib
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmermehmood0007&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=ahmermehmood7007&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
