@@ -1,18 +1,27 @@
 <h1 align="center">Ahmer Mehmood</h1>
 
+<h3 align="center">Turning Messy, Real-World Data Into Decisions That Matter</h3>
+
 <p align="center">
-  <strong>Data Analyst | Aspiring Data Engineer</strong><br>
-  SQL (PostgreSQL) • Python (ETL & Analysis) • Power BI • Data Modeling • Dashboarding<br>
-  Rawalpindi/Islamabad, Pakistan
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4169E1&center=true&vCenter=true&width=650&lines=SQL+%2B+Python+End-to-End+Analytics;PostgreSQL+%7C+ETL+Pipelines+%7C+Dashboards;Data+Analyst+%E2%86%92+Data+Engineer+in+Progress;Rawalpindi%2FIslamabad%2C+Pakistan" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmermehmood7007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ahmermehmood707@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/923334408596" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmermehmood7007&label=Profile%20Views&color=4169E1&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -129,8 +138,13 @@ Assessment of default risk and borrower behavior across loan categories.
   <a href="https://www.linkedin.com/in/ahmermehmood7007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:ahmermehmood707@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/923334408596" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
@@ -138,7 +152,19 @@ Assessment of default risk and borrower behavior across loan categories.
 
 ## 📊 GitHub Statistics
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmermehmood7007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=ahmermehmood7007&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmermehmood7007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+</p>
+
+---
+
+## 🏆 Trophy Case
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmermehmood7007&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 ---
