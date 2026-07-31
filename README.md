@@ -2,15 +2,15 @@
 
 <p align="center">
   <strong>Data Analyst | Aspiring Data Engineer</strong><br>
-  SQL (PostgreSQL) • Python • Power BI • ETL Concepts • Data Modeling<br>
-  Islamabad, Pakistan
+  SQL (PostgreSQL) • Python (ETL & Analysis) • Power BI • Data Modeling • Dashboarding<br>
+  Rawalpindi/Islamabad, Pakistan
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmermehmood7007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:ahmermehmood0007@gmail.com">
+  <a href="mailto:ahmermehmood707@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
@@ -19,21 +19,22 @@
 
 ## 👨‍💻 About Me
 
-Data Analyst with a strong foundation in SQL (PostgreSQL) and a growing skill set in Python and Power BI, focused on turning raw data into structured, decision-ready insights.
+Data Analyst who works **SQL + Python end-to-end** — from messy raw data, through a cleaning/ETL pipeline, into a normalized PostgreSQL schema, out to CTE/window-function-driven analysis, and finally into a Python or Power BI visualization that answers a real business question.
 
-I've built a full portfolio of SQL projects covering everything from data cleaning and joins to CTEs, window functions, and query optimization — working with realistic, business-style datasets rather than toy examples.
+I don't build toy notebooks. My projects simulate the kind of environment a real Data/Business Analyst works in — inconsistent date formats, missing values, duplicate records, multi-table schemas — because that's the work that actually matters on the job.
 
-Currently building out my Python skills (Pandas, NumPy, Matplotlib, Seaborn) to round out my analytics toolkit, with the long-term goal of transitioning into Data Engineering.
+Currently deepening my Python (Pandas, NumPy, Matplotlib, Seaborn) skills further and sharpening my portfolio, resume, and interview prep as I go after Data Analyst / Junior Data Analyst roles.
 
 ---
 
 ## 🎯 Core Expertise
 
-- Advanced SQL (Joins, CTEs, Window Functions, Subqueries, Aggregations)
-- Relational Database Design & Query Optimization
-- Data Cleaning & Exploratory Data Analysis
-- Business-Focused Data Analysis & Reporting
-- Dashboard Development (Power BI)
+- End-to-end **ETL** — extract messy multi-source data, clean it, load it into a normalized schema
+- Advanced **SQL** (Joins, CTEs, Window Functions, Subqueries, Conditional Aggregation)
+- Relational **Database Design** & Query Optimization
+- **Python** for data cleaning, EDA, and visualization (Pandas, NumPy, Matplotlib, Seaborn)
+- Business-Focused Analysis & Reporting — translating queries into decisions, not just numbers
+- Dashboard Development (**Power BI**, **Excel**)
 
 ---
 
@@ -41,88 +42,84 @@ Currently building out my Python skills (Pandas, NumPy, Matplotlib, Seaborn) to 
 
 ### 🔹 Languages & Databases
 <p>
-  <a href="https://www.postgresql.org/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+</p>
+
+### 🔹 Python Data Stack
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
 </p>
 
 ### 🔹 Analytics & Engineering Foundations
 <p>
-  <a href="https://aws.amazon.com/what-is/etl/" target="_blank">
-    <img src="https://img.shields.io/badge/ETL_Concepts-FF6F00?style=for-the-badge"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/dbms-data-models/" target="_blank">
-    <img src="https://img.shields.io/badge/Data_Modeling-6A1B9A?style=for-the-badge"/>
-  </a>
-  <a href="https://use-the-index-luke.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Query_Optimization-1565C0?style=for-the-badge"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Modeling-6A1B9A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Query_Optimization-1565C0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge"/>
 </p>
 
 ### 🔹 Tools
 <p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
-  </a>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-### 🏠 [Real Estate Property Analytics](https://github.com/ahmermehmood0007/real-estate-property-analytics)
-A Zameen.com-style SQL analysis project (capstone) exploring property listings, pricing trends, and location-based insights.
-- Used CTEs, window functions, and aggregations to uncover pricing patterns across cities and property types
-- Structured queries to answer real business questions like top-performing areas and price-per-sqft trends
+### 📊 [SaaS Subscription Business Analytics](https://github.com/ahmermehmood7007/saas-subscription-analytics)
+**SQL + Python, end-to-end.** A subscription-business simulation (3,000 customers, ~21K payment records) built to answer why customers churn and how MRR is trending.
+- PostgreSQL: schema design, CTEs, window functions (`LAG`), conditional aggregation
+- Python: Pandas + Matplotlib/Seaborn for all visualizations
+- **Key findings:** 29.8% overall churn · Basic-tier churn (39.7%) more than double Enterprise (18.3%) · customers with a failed payment churn at 1.45x the rate · 57.9% of customers who downgrade eventually cancel
 
-### 📡 [Telecom Customer Churn Analysis](https://github.com/ahmermehmood0007/Telecom_Customer_Churn_Analysis)
-SQL-driven analysis of telecom customer data to identify churn patterns and at-risk customer segments.
-- Applied joins, CASE WHEN logic, and subqueries to segment customers by usage and churn behavior
-- Extracted insights to support retention-focused decision-making
+### 🏪 [Retail Chain Operations Analytics](https://github.com/ahmermehmood7007/retail-chain-operations-analytics)
+**SQL + Python, ETL-focused.** Simulates a multi-branch retail chain with intentionally messy source data — mixed date formats, missing values, duplicate records — cleaned through a full ETL pipeline into a normalized PostgreSQL schema.
+- Python ETL pipeline: extraction, date normalization, missing-value recalculation, deduplication
+- SQL analysis: branch-wise sales, monthly growth %, top employees per branch, dead-stock detection, repeat-purchase rate
+- Python cohort retention analysis with a Seaborn heatmap
 
-### 🏦 [Bank Loan Risk Analysis](https://github.com/ahmermehmood0007/bank-loan-risk-analysis)
-Analysis of bank loan data to assess default risk and borrower behavior patterns.
-- Used window functions and aggregations to evaluate risk across loan categories and borrower profiles
-- Built queries to surface trends useful for credit risk assessment
+### 🏠 [Real Estate Property Analytics](https://github.com/ahmermehmood7007/real-estate-property-analytics)
+Zameen.com-style capstone project analyzing property listings, pricing trends, and location-based insights.
+- CTEs, window functions, and aggregations to uncover pricing patterns across cities and property types
+- Business questions like top-performing areas and price-per-sqft trends
 
-### 🎓 [Student Performance Analysis](https://github.com/ahmermehmood0007/Student_Performance_Analysis)
-SQL analysis of student academic data to identify performance trends and contributing factors.
-- Used joins, grouping, and aggregate functions to analyze scores across subjects and demographics
-- Delivered insights on performance gaps and improvement areas
+### 📡 [Telecom Customer Churn Analysis](https://github.com/ahmermehmood7007/Telecom_Customer_Churn_Analysis)
+SQL-driven analysis of telecom customer data to identify churn patterns and at-risk segments.
+- Joins, `CASE WHEN` logic, and subqueries to segment customers by usage and churn behavior
+
+### 🏦 [Bank Loan Risk Analysis](https://github.com/ahmermehmood7007/bank-loan-risk-analysis)
+Assessment of default risk and borrower behavior across loan categories.
+- Window functions and aggregations to surface trends useful for credit risk assessment
+
+📁 More projects — including Power BI dashboards, an Excel sales dashboard, and additional SQL case studies (COVID-19, hospital analytics, sales EDA) — are pinned/browsable on my [repositories page](https://github.com/ahmermehmood7007?tab=repositories).
 
 ---
 
 ## 📌 What I'm Currently Working On
 
-- 🐍 Building Python skills for data analysis (Pandas, NumPy, Matplotlib, Seaborn)
-- 📊 Applying Python + SQL together for deeper end-to-end analysis
-- 💼 Sharpening my portfolio, resume, and interview prep for Data Analyst roles
+- 🐍 Deepening Python for data analysis — moving from "SQL-first" to true SQL + Python end-to-end workflows
+- 🔧 Practicing ETL pipeline design on messier, more realistic datasets
+- 💼 Actively applying for Data Analyst / Junior Data Analyst roles in Rawalpindi/Islamabad
 
 ---
 
 ## 🎯 Career Direction
 
-- Short-Term: Data Analyst Role
-- Mid-Term: Strengthen Python + Data Visualization for end-to-end analytics
-- Long-Term: Transition into Data Engineering — build scalable data systems & pipelines
+- **Short-Term:** Land a Data Analyst role
+- **Mid-Term:** Strengthen Python + visualization for full end-to-end analytics work
+- **Long-Term:** Transition into Data Engineering — build scalable data systems & pipelines
 
 ---
 
@@ -131,6 +128,9 @@ SQL analysis of student academic data to identify performance trends and contrib
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmermehmood7007/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:ahmermehmood707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
 </p>
 
