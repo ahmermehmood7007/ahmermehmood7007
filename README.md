@@ -51,36 +51,36 @@ Currently deepening my Python (Pandas, NumPy, Matplotlib, Seaborn) skills furthe
 
 ### 🔹 Languages & Databases
 <p>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ### 🔹 Python Data Stack
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/></a>
+  <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ### 🔹 Analytics & Engineering Foundations
 <p>
-  <img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data_Modeling-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Query_Optimization-1565C0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge"/>
+  <a href="https://aws.amazon.com/what-is/etl/" target="_blank"><img src="https://img.shields.io/badge/ETL_Pipelines-FF6F00?style=for-the-badge"/></a>
+  <a href="https://www.geeksforgeeks.org/dbms-data-models/" target="_blank"><img src="https://img.shields.io/badge/Data_Modeling-6A1B9A?style=for-the-badge"/></a>
+  <a href="https://use-the-index-luke.com/" target="_blank"><img src="https://img.shields.io/badge/Query_Optimization-1565C0?style=for-the-badge"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ### 🔹 Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge"/>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.pgadmin.org/" target="_blank"><img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -159,7 +159,12 @@ Assessment of default risk and borrower behavior across loan categories.
 
 ## 🧰 Skills at a Glance
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode&theme=dark" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
 </p>
 
 ---
